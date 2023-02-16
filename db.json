@@ -1,0 +1,30 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet nesciunt qui sit velit delectus voluptates, repellat ipsum culpa id deleniti. Rerum debitis facilis accusantium neque numquam mollitia modi quasi distinctio",
+      "author": "admin",
+      "like": 200,
+      "comment": 100
+    },
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet nesciunt qui sit velit delectus voluptates, repellat ipsum culpa id deleniti. Rerum debitis facilis accusantium neque numquam mollitia modi quasi distinctio",
+      "author": "admin",
+      "like": 200,
+      "comment": 100
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
